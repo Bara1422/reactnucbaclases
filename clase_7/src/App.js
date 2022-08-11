@@ -8,7 +8,7 @@ import Posts from './pages/posts/Posts'
 export default function App() {
     return (
         <Router>
-            <div className={styles.App}>
+            <div className={styles.app}>
                 <Header />
                 <Switch>
                     <Route exact path="/">
