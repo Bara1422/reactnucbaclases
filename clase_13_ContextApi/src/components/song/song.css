@@ -1,0 +1,12 @@
+#song {
+  flex-basis: 40%;
+}
+#btnLyric {
+  flex-basis: 30%;
+}
+#audio {
+  flex-basis: 20%;
+}
+#song audio {
+  width: 100%;
+}
